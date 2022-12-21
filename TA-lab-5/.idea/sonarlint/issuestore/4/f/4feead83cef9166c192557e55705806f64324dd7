@@ -1,0 +1,10 @@
+
+Q
+java:S1066 "/Merge this if statement with the enclosing one.(Û·ôŞüÿÿÿÿ8ÔÆó€Ó0
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãúï¶úÿÿÿÿ8ÔÆó€Ó0
+>
+java:S1170"!Make this final field static too.(é»öÊ8¦Èó€Ó0
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ï‡ùéûÿÿÿÿ8ªÈó€Ó0
+U
+java:S1068"3Remove this unused "minWeightMatrix" private field.(şùËæûÿÿÿÿ8¸’ˆµÓ0

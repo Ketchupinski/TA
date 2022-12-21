@@ -1,0 +1,9 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿžÇãûÿÿÿÿ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÎõk
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç“ö÷øÿÿÿÿ
+f	java:S116"QRename this field "Matrix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍìýÞ
+<
+java:S1170"!Make this final field static too.(¥€ð¬ýÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÿžÇãûÿÿÿÿ
